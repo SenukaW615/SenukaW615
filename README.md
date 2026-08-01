@@ -10,7 +10,7 @@
 
 ### 📬 Reach me on:
 
-<a href="https://www.linkedin.com/in/senuka-wijerathna">
+<a href="https://www.linkedin.com/in/senukawijerathna">
   <img src="https://skillicons.dev/icons?i=linkedin" width="30" align="center" style="padding-right:0.5rem;"/> 
   <span style="font-size: 1.2em; font-weight: 600; margin-left: 10px;">LinkedIn</span>
 </a>
