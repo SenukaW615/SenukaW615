@@ -29,5 +29,5 @@
 
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mongodb,vscode,visualstudio,idea,clion,pycharm,gitlab&perline=20" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,ts,mongodb,fastapi,docker,git,postgres,react,vscode,visualstudio,idea,clion,pycharm,gitlab&perline=20" />
 </a>
